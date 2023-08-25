@@ -1,0 +1,14 @@
+<Usuario>
+    <Dados>
+        <Info>
+            <nome>Gabriel Scarano</nome>
+            <telefone>1111111111</telefone>
+            <cpf>99999999999</cpf>
+        </Info>
+        <Endereco>
+            <logradouro>Logradouro</logradouro>
+            <numero>numero</numero>
+            <complemento>complemento</complemento>
+        </Endereco>
+    </Dados>
+</Usuario>

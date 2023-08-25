@@ -1,0 +1,13 @@
+{
+  "name": "nfe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@chilkat/ck-node18-win64": "^9.50.95",
+    "xml-crypto": "^4.1.0"
+  }
+}
